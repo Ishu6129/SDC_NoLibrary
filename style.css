@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFZbUipgXVG1G4O_hUPk5rBUZZadldFeX5yg&s"); */
+    background-color: rgb(66, 73, 61);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    text-align: center;
+}
+#myCanvas{
+    background-color: rgb(135, 132, 137);
+}
